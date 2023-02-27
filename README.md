@@ -4,6 +4,9 @@
 ## Description 
 This is an application back-end program for an e-commerce website. It used the MySQL2 and Sequelize packages to connect to a MySQL database. 
 
+## Walkthrough   
+  
+  https://drive.google.com/file/d/1mp1ETx1OhuW0BG4ku-j7BuGXTKuOeIB2/view
   
 ## Table of Contents
     
